@@ -48,14 +48,31 @@ main {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
   padding-top: 4rem;
   padding-bottom: 7.125rem;
 }
 
-.hero-image {
+.hero-image,
+.hero-content {
   max-width: 80%;
 }
 
 .hero-image img {
   width: 100%;
+}
+
+.hero-content p {
+  line-height: 26px;
+}
+
+footer {
+  height: 2.778rem;
+  width: 100%;
+}
+
+footer p {
+  font-size: 0.778rem;
+  margin: 0 auto;
+  text-align: center;
 }

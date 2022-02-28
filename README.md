@@ -59,4 +59,4 @@ This webpage was created as a submission to a [DevChallenges](https://devchallen
 ## Contact
 
 - GitHub [@nessvah](https://github.com/Nessvah)
-- Twitter [@your-twitter](https://twitter.com/Nessvah_)
+- Twitter [@Nessvah_](https://twitter.com/Nessvah_)

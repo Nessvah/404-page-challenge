@@ -1,0 +1,61 @@
+/* Mobile first approach */
+
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&family=Space+Mono:wght@400;700&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 18px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Space Mono", monospace;
+  color: #333;
+}
+
+h1 {
+  font-family: "Inconsolata", monospace;
+  font-size: 1.33rem;
+  text-transform: uppercase;
+  padding-top: 20px;
+  padding-left: 24px;
+}
+
+h2 {
+  font-size: 2.667rem;
+}
+
+h1,
+h2,
+button {
+  font-weight: 700;
+}
+
+p {
+  font-weight: 400;
+}
+
+button {
+  font-size: 0.778rem;
+  text-transform: uppercase;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-top: 4rem;
+  padding-bottom: 7.125rem;
+}
+
+.hero-image {
+  max-width: 80%;
+}
+
+.hero-image img {
+  width: 100%;
+}

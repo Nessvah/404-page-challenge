@@ -4,7 +4,7 @@ My solution for a challenge from [Devchallenges.io](http://devchallenges.io)
 
 ### Demo
 
-[Click Here]()
+[Click Here](https://stupefied-clarke-d49be9.netlify.app/)
 
 ### Solution
 
@@ -39,6 +39,8 @@ My solution for a challenge from [Devchallenges.io](http://devchallenges.io)
 - Had some difficulty in maintaining the footer on the bottom of the viewport.
 - Used flexbox to practice.
 - Overall and despite some trouble with the layout, I think that the outcome is exactly how it was expected to be.
+
+This webpage was deployed with Netlify.
 
 ### Built With
 
